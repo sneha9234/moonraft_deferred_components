@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+#My references
+https://docs.flutter.dev/perf/deferred-components
+https://docs.flutter.dev/get-started/flutter-for/android-devs
+Flutter Gallery’s lib/deferred_widget.dart
+https://dart.dev/guides/language/language-tour#lazily-loading-a-library
+https://github.com/flutter/flutter/wiki
